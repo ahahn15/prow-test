@@ -1,0 +1,3 @@
+plugins:
+  ahahn15/prow-test:
+  - size
